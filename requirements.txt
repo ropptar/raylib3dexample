@@ -1,0 +1,4 @@
+raylib
+pre-commit
+black
+ruff
